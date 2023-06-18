@@ -3,10 +3,10 @@
 The QR Code project is a Node.js application that utilizes the qr-image library and the inquirer package. The goal of the project is to generate QR codes based on user input.
 
 ## Lessons Learned
-
-- I learnt about Node.js
+- JavaScript
+- Node.js
 - Node modules
-- different packages used
+- Packages
 - .json file
 - Generating QR code
 
