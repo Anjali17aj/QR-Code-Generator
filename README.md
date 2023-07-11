@@ -43,7 +43,7 @@ Start the server
 
 ## Demo
 
-![App Screenshot](https://scontent.fmaa8-1.fna.fbcdn.net/v/t39.30808-6/353057709_3497606423894303_7165546287914954123_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=QZcma3ix4QAAX-4vhIq&_nc_ht=scontent.fmaa8-1.fna&oh=00_AfDwo3XRmDH_p0VFkkNaiTA24oKtgNhAjwrCUOSX4tLPtQ&oe=649251E9)
+![App Screenshot](https://scontent.fpat3-1.fna.fbcdn.net/v/t39.30808-6/353057709_3497606423894303_7165546287914954123_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0debeb&_nc_ohc=k4DwDZFVWNQAX-btAjm&_nc_ht=scontent.fpat3-1.fna&oh=00_AfDdwcpzKAv2U1u0UsuitgXXs3yKuvRAkJT8QlrX8ETpug&oe=64B1F5E9)
 
 
 ## Tech Stack
